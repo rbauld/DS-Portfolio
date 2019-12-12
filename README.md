@@ -18,4 +18,6 @@ Skills demonstrated: Natural language processing, feature engineering, Machine L
 [Link](https://github.com/rbauld/kaggle/tree/master/quora_question_pair)
 
 ### Financial fraud detection
-Skills demonstrated: Exploratory data analysis, machine learning, model building, feature engineering, python, model validation, dealing with imbalanced classes
+Skills demonstrated: Exploratory data analysis, machine learning, model building, feature engineering, python, model validation, dealing with imbalanced classes, hyperparameter tuning.  
+The data used for this project can be found [here](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+[Link](https://github.com/rbauld/DS-Portfolio/tree/master/fraud_detection)
