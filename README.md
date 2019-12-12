@@ -14,7 +14,7 @@ Skills demonstrated: MATLAB, simulation, curve fitting, GPU computation
 
 ### Quora question challenge
 Description: This was my submission to the Kaggle quora question challenge. The goal of this competition was to determine if two questions can be considered duplicates. It ranked in the top 6% of submissions.  
-Skills demonstrated: Natural language processing, feature engineering  
+Skills demonstrated: Natural language processing, feature engineering, Machine Learning
 [Link](https://github.com/rbauld/kaggle/tree/master/quora_question_pair)
 
 ### Financial fraud detection
