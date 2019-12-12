@@ -2,7 +2,7 @@
 A collection of projects to demonstrate various data science related skills
 
 ## Structure
-Projects are separated into different folders. Most of the projects will be jupityer notebooks. This way code and results can be displayed in an easy to digest manner. Short descriptions of the projects and a list of skills demonstrated are below.
+Projects are separated into different folders or in some cases repos. Short descriptions of the projects and a list of skills demonstrated are below with links to the project.
 
 ## Projects
 
