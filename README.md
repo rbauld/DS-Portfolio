@@ -11,7 +11,7 @@ Description: This software runs a simulation of a thermo-optical system to extra
 sample.  
 Skills demonstrated: MATLAB, simulation, curve fitting, GPU computation  
 
-### [Quora question challenge]](https://github.com/rbauld/kaggle/tree/master/quora_question_pair)
+### [Quora question challenge](https://github.com/rbauld/kaggle/tree/master/quora_question_pair)
 Description: This was my submission to the Kaggle quora question challenge. The goal of this competition was to determine if two questions can be considered duplicates. It ranked in the top 6% of submissions.  
 Skills demonstrated: Natural language processing, feature engineering, Machine Learning  
 
