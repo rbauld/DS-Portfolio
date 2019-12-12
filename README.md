@@ -6,5 +6,11 @@ Projects are separated into different folders. Most of the projects will be jupi
 
 ## Projects
 
+### Photothermal Deflection spectroscopy simulation
+Description: This software runs a simulation of a thermo-optical system to extract the thermal properties of a material
+sample.
+Skills demonstrated: MATLAB, simulation, curve fitting, GPU computation
+[Link](https://github.com/rbauld/PDS-sim)
+
 ### Financial fraud detection
 Skills demonstrated: Exploratory data analysis, machine learning, model building, feature engineering, python, model validation, dealing with imballanced classes
